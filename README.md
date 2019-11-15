@@ -27,9 +27,8 @@ At the top of the screen there should be a text field to allow users to entire t
 
 ![screen design](urban_spoon.jpg)
 
-Underneath, there should be three slot machine like spinners filled with data from the Zomato api. The three columns should be
+Underneath, there should be two slot machine like spinners filled with data from the Zomato api. The two columns should be
 
-* Neighbourhood
 * Cuisine
 * Price
 
